@@ -29,3 +29,6 @@ cd flutter-voice-assistant
 - Voice-activated interaction
 - Seamless integration with ChatGPT API
 - Clear and concise responses
+
+## Ui screenshot
+<img src = "Screenshot 2024-01-24 113325.png">
