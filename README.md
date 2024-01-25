@@ -16,7 +16,7 @@ Make sure you have the following installed:
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/flutter-voice-assistant.git
+git clone https://github.com/MazenSamehR/flutter-voice-assistant.git
 cd flutter-voice-assistant
 ```
 ## Usage
